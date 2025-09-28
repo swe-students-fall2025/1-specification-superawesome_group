@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - Leo Qian — [GitHub](https://github.com/Leo-codingMaster)  
 - Leo Li - [GitHub](https://github.com/LiShangcheng)
 - Hanjun Deng  
-
+-Leo Fu [GitHub](https://github.com/LeoFYH)
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
