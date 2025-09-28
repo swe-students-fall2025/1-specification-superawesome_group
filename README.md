@@ -69,6 +69,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+<img width="1458" height="1813" alt="UML" src="https://github.com/user-attachments/assets/1828edd3-e576-4222-97ab-35825af2ed85" />
+
 
 ## Clickable Prototype
 
