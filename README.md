@@ -40,7 +40,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 4. As a young user, I want to see the list of participants in an event so that I can know who will be attending in advance.  
 5. As a young user, I want to exchange contact information after the event so that I can stay in touch with new friends.  
 
-**From Leo**  
+**From Leo Li**  
 6. As a teenager, I want to filter events by age group so that I can join activities with people in a similar stage of life.  
 7. As a teenager, I want to filter events by category (sports, music, study, etc.) so that I can focus on events that fit my hobbies.  
 8. As a college student, I want to create and host my own event so that I can invite people and make new friends.  
