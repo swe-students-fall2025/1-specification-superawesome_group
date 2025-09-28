@@ -31,23 +31,23 @@ Our app helps people of all ages connect through local events and spontaneous ac
 
 ## User Requirements
 
-**From Leo Fu**  
+### From Leo Fu  
 1. As a young user, I want to create a new event so that I can invite others to join and make new friends.  
 2. As a young user, I want to browse a list of nearby events so that I can find activities that interest me.  
 3. As a young user, I want to join an event so that I can connect with other participants.  
 4. As a young user, I want to see the list of participants in an event so that I can know who will be attending in advance.  
 5. As a young user, I want to exchange contact information after the event so that I can stay in touch with new friends.  
 
-**From Leo Li**  
+### From Leo  
 6. As a teenager, I want to filter events by age group so that I can join activities with people in a similar stage of life.  
 7. As a teenager, I want to filter events by category (sports, music, study, etc.) so that I can focus on events that fit my hobbies.  
 8. As a college student, I want to create and host my own event so that I can invite people and make new friends.  
 9. As a worker, I want to search for nearby events so that I can find activities that match my schedule.  
 10. As a user, I want to view a list of people I have interacted with before so that I can reconnect with them later.  
-11. As an teenager, I want to see the history of events I joined so that I can remember what I attended and who I met.  
+11. As an elderly, I want to see the history of events I joined so that I can remember what I attended and who I met.  
 12. As a young user, I want to filter events by distance so that I only see events close to me.  
 
-**From Leo Qian**  
+### From Leo Qian  
 13. As a student who just finished class, I want to quickly see people nearby who are free right now so that I can meet someone immediately.  
 14. As a traveler in a new city, I want to browse events happening around me within walking distance so that I can join local activities without advanced planning.  
 15. As a young professional with sudden free time, I want to start a casual event like “coffee chat in the next 30 minutes” so that others nearby can instantly join if they’re available.  
@@ -55,14 +55,14 @@ Our app helps people of all ages connect through local events and spontaneous ac
 17. As a regular commuter, I want the app to remind me of people I’ve bumped into multiple times so that I can turn random encounters into lasting friendships.  
 18. As a curious person, I want the app to push me real-time suggestions of nearby people or activities so that I can join something fun without searching myself.  
 
-**From Hanjun Deng**  
+### From Hanjun Deng  
 19. As a cautious user, I want to exchange my personal contact (phone, email, etc.) only after both sides agree in the app so that I stay in control of my privacy.  
 20. As a safety-conscious user, I want to be able to hide my exact location and only show an approximate distance so that I can feel more comfortable meeting new people.  
 21. As a busy student, I want to mark my availability time slots in the app so that others can know when I’m actually free.  
 22. As a new user, I want to write a short introduction on my profile so that others can know something about me before starting a conversation.  
 23. As a shy user, I want the app to highlight the strangers I have encountered multiple times in different locations so that I can recognize them and more easily start a conversation.  
 24. As a user, I want to be able to say “hi” to the people near me so that I can show my interest in starting a conversation.  
-25. As a user who receives a greeting, I want the option to accept or decline it so that I can control whether or not to engage in a conversation.  
+25. As a user who receives a greeting, I want the option to accept or decline it so that I can control whether or not to engage in a conversation.   
 
 ## Activity Diagrams
 
