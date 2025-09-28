@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Leo Qian — [GitHub](https://github.com/Leo-codingMaster)  
-- Leo Li  
+- Leo Li - [GitHub()]
 - Hanjun Deng  
 
 ## Stakeholders
