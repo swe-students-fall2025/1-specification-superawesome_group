@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Leo Qian, Leo Li
+Leo Qian, Leo Li, Hanjun Deng
 
 ## Stakeholders
 
