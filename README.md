@@ -8,9 +8,9 @@ A little exercise to get started with the specification phase of the software de
 - Leo Li - [GitHub](https://github.com/LiShangcheng)
 - Hanjun Deng  
 - Leo Fu - [GitHub](https://github.com/LeoFYH)
+
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 **Stakeholder:** Daisy, a college student who is interested in making friends  
 
 **Goals / Needs**  
@@ -27,12 +27,10 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
 Our app helps people of all ages connect through local events and spontaneous activities by offering smart recommendations, easy event creation, and simple ways to maintain new friendships.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
 **From Leo Fu**  
 1. As a young user, I want to create a new event so that I can invite others to join and make new friends.  
 2. As a young user, I want to browse a list of nearby events so that I can find activities that interest me.  
@@ -68,7 +66,10 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**User Story Example 1:**  
+_As a young user, I want to create a new event so that I can invite others to join and make new friends._  
+**User Story Example 2:**  
+_As a traveler in a new city, I want to browse events happening around me within walking distance so that I can join local activities without advanced planning._  
 <img width="1458" height="1813" alt="UML" src="https://github.com/user-attachments/assets/1828edd3-e576-4222-97ab-35825af2ed85" />
 
 
