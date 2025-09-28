@@ -46,7 +46,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 8. As a college student, I want to create and host my own event so that I can invite people and make new friends.  
 9. As a worker, I want to search for nearby events so that I can find activities that match my schedule.  
 10. As a user, I want to view a list of people I have interacted with before so that I can reconnect with them later.  
-11. As an elderly, I want to see the history of events I joined so that I can remember what I attended and who I met.  
+11. As an teenager, I want to see the history of events I joined so that I can remember what I attended and who I met.  
 12. As a young user, I want to filter events by distance so that I only see events close to me.  
 
 **From Leo Qian**  
