@@ -66,7 +66,7 @@ Our product empowers people who seek social connection to quickly discover and j
 ## Activity Diagrams
 
 **User Story Example 1:**  
-_As a student who just finished class, I want to quickly join event nearby which I am interested right now so that I can have fun immediately. _  
+_As a student who just finished class, I want to quickly join event nearby which I am interested right now so that I can have fun immediately._  
 <img width="620" height="330" alt="Screenshot 2025-09-29 at 10 37 35" src="https://github.com/user-attachments/assets/9f07a6d0-1a59-4918-8689-1ca27d6616a9" />
 
 **User Story Example 2:**  
