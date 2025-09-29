@@ -70,8 +70,7 @@ Our app helps people of all ages connect through local events and spontaneous ac
 _As a student who just finished class, I want to quickly see people nearby who are free right now so that I can meet someone immediately._  
 **User Story Example 2:**  
 _As a new tenant in the community, I want to set simple filters like age or distance when looking for people so that I can feel safe and meet those I’ll connect with easily._  
-<img width="1458" height="1813" alt="UML" src="https://github.com/user-attachments/assets/1828edd3-e576-4222-97ab-35825af2ed85" />
-
+<img width="1458" height="1813" alt="UML" src="https://github.com/user-attachments/assets/9ae82870-124d-4f4a-9f84-fdda9914f5be" />
 
 ## Clickable Prototype
 
