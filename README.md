@@ -47,7 +47,7 @@ Our product empowers people who seek social connection to quickly discover and j
 12. As a young user, I want to filter events by distance so that I only see events close to me.  
 
 ### From Leo Qian  
-13. As a student who just finished class, I want to quickly see people nearby who are free right now so that I can meet someone immediately.  
+13. As a student who just finished class, I want to quickly join event nearby which I am interested right now so that I can have fun immediately.  
 14. As a traveler in a new city, I want to browse events happening around me within walking distance so that I can join local activities without advanced planning.  
 15. As a young professional with sudden free time, I want to start a casual event like “coffee chat in the next 30 minutes” so that others nearby can instantly join if they’re available.  
 16. As a new tenant in the community, I want to set simple filters like age or distance when looking for people so that I can feel safe and meet those I’ll connect with easily.  
@@ -66,10 +66,13 @@ Our product empowers people who seek social connection to quickly discover and j
 ## Activity Diagrams
 
 **User Story Example 1:**  
-_As a student who just finished class, I want to quickly see people nearby who are free right now so that I can meet someone immediately._  
+_As a student who just finished class, I want to quickly join event nearby which I am interested right now so that I can have fun immediately. _  
+<img width="620" height="330" alt="Screenshot 2025-09-29 at 10 37 35" src="https://github.com/user-attachments/assets/9f07a6d0-1a59-4918-8689-1ca27d6616a9" />
+
 **User Story Example 2:**  
 _As a new tenant in the community, I want to set simple filters like age or distance when looking for people so that I can feel safe and meet those I’ll connect with easily._  
-<img width="1458" height="1813" alt="UML" src="https://github.com/user-attachments/assets/9ae82870-124d-4f4a-9f84-fdda9914f5be" />
+<img width="600" height="330" alt="Screenshot 2025-09-29 at 10 38 06" src="https://github.com/user-attachments/assets/6852a1e1-5d89-47a8-84e5-435e6c6f72ee" />
+
 
 ## Clickable Prototype
 
