@@ -75,4 +75,4 @@ _As a new tenant in the community, I want to set simple filters like age or dist
 
 ## Clickable Prototype
 
-[Click here to view the prototype](https://www.figma.com/design/Odz2yCMhNXoPsiacY0HgjO/SuperAwesomeGroup?node-id=83-629&t=ztnzLGIW2j9hqhTW-1)
+[Click here to view the prototype](https://www.figma.com/proto/Odz2yCMhNXoPsiacY0HgjO/SuperAwesomeGroup?page-id=83%3A629&node-id=90-1733&viewport=304%2C457%2C0.14&t=lecICB3ZM0d7ci8m-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=89%3A383&show-proto-sidebar=1)
