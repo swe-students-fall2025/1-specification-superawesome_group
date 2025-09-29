@@ -26,8 +26,7 @@ A little exercise to get started with the specification phase of the software de
 4. Following up with people met at events is inconvenient, as existing apps lack a clear way to keep track of past connections.  
 
 ## Product Vision Statement
-
-Our app helps people of all ages connect through local events and spontaneous activities by offering smart recommendations, easy event creation, and simple ways to maintain new friendships.
+Our product empowers people who seek social connection to quickly discover and join nearby people and events, making it easy to expand their network and engage in meaningful interactions.
 
 ## User Requirements
 
