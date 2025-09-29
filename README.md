@@ -75,4 +75,4 @@ _As a traveler in a new city, I want to browse events happening around me within
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Click here to view the prototype](https://www.figma.com/design/Odz2yCMhNXoPsiacY0HgjO/SuperAwesomeGroup?node-id=83-629&t=ztnzLGIW2j9hqhTW-1)
